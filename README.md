@@ -65,3 +65,19 @@ Choose **Code > Download ZIP** on GitHub, then extract the archive before runnin
 
 See [CHANGELOG.md](CHANGELOG.md) for development history.
 
+.\ADUserProvisioningTool-vNext.ps1
+
+sample-users.csv is supplied to test with
+
+## Important Notes
+- Test in a lab environment before using in production
+- Ensure you have appropriate permissions in Active Directory
+- No credentials are stored by the tool
+
+## License
+MIT License
+
+## Author
+Graham Tovey
+
+
