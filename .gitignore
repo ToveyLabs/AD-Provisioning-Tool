@@ -1,0 +1,8 @@
+# Local backups and editor files
+*.bak
+*.tmp
+.vscode/
+
+# Operator data and sensitive exports
+*.csv
+*.log
